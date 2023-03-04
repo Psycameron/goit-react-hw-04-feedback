@@ -1,0 +1,17 @@
+.good {
+  color: #33dd4a;
+}
+
+.neutral {
+  color: #e6db48;
+}
+
+.bad {
+  margin-bottom: 20px;
+
+  color: #dd3333;
+}
+
+.number {
+  margin-left: 10px;
+}

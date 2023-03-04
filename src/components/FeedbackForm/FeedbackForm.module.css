@@ -1,0 +1,12 @@
+.form {
+}
+
+.form__button {
+  margin-right: 30px;
+}
+
+.form__list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
